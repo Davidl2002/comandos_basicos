@@ -1,0 +1,5 @@
+
+config.bd
+*.tmp
+*.log
+
