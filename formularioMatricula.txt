@@ -1,0 +1,7 @@
+###############################
+####Formulaario Martricula#####
+###############################
+
+CARRERA
+MATERIAS
+NUMERO DE CREDITOS
