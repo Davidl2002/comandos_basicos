@@ -2,7 +2,7 @@
 ###########Orden de Pago############
 ####################################
 
-NOMBRE DEL ESTUDIANTE:
-FECHA:
-VALOR A PAGAR:
+NOMBRE DEL ESTUDIANTE: ESTEBAN DAVID LOPEZ
+FECHA: 25/10/2023
+VALOR A PAGAR: 120
 
